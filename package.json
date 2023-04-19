@@ -1,5 +1,5 @@
 {
-  "name": "fe-handwriting",
+  "name": "lhh-handwriting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qianlongo/fe-handwriting.git"
+    "url": "git+https://github.com/henfy233/lhh-handwriting.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qianlongo/fe-handwriting/issues"
+    "url": "https://github.com/henfy233/lhh-handwriting.git/issues"
   },
-  "homepage": "https://github.com/qianlongo/fe-handwriting#readme"
+  "homepage": "https://github.com/henfy233/lhh-handwriting.git#readme"
 }
